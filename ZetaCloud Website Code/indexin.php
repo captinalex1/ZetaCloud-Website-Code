@@ -54,7 +54,7 @@
     <div class="nav-bottom">
         <nav>
             <a class="bottom-nav-text" href="">About</a>
-            <a class="bottom-nav-text" href="/contact.html">Contact Us</a>
+            <a class="bottom-nav-text" href="/contact.php">Contact Us</a>
             <a class="bottom-nav-text" href="">Feedback</a>
             <a class="bottom-nav-text" href="">FAQ</a>
             <a class="bottom-nav-text" href="/privacy.html">Privacy</a>

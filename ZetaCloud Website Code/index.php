@@ -20,11 +20,11 @@
             <a class="top-nav-text" href="https://drive.zetacloud.cloud/login">Cloud Storage</a>
             <a class="top-nav-text" href="">Cloud Gaming</a>
             <a class="top-nav-text" href="">Pricing</a>
-            <a class="top-nav-text" href="/Blogs/Crypto/Is-Crypto-Dying/Is-Crypto-Dying-Article.html">Blogs</a>
+            <a class="top-nav-text" href="/blogs.html">Blogs</a>
             <a class="top-nav-text" href="/Login-Script/includes/login.inc.php">Log In</a>
         </nav>
     </div>
-     <style>
+    <style>
         /* put this back when database wants to work. /Login-Script/includes/login.inc.php*/   
     </style>
 
@@ -69,7 +69,7 @@
     <div class="nav-bottom">
         <nav>
             <a class="bottom-nav-text" href="">About</a>
-            <a class="bottom-nav-text" href="/contact.html">Contact Us</a>
+            <a class="bottom-nav-text" href="/contact.php">Contact Us</a>
             <a class="bottom-nav-text" href="">Feedback</a>
             <a class="bottom-nav-text" href="">FAQ</a>
             <a class="bottom-nav-text" href="/privacy.html">Privacy</a>
